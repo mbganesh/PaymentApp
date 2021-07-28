@@ -69,7 +69,6 @@ public class PaymentActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                     rayzorPayInit(amount);
-//                Toast.makeText(PaymentActivity.this, "Under processing", Toast.LENGTH_SHORT).show();
             }
         });
     }
