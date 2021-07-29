@@ -2,8 +2,8 @@
 
 ## PaymentActivity
 
-[Payment Screen XML](https://github.com/mbganesh/PaymentApp/blob/master/app/src/main/res/layout/activity_payment.xml)
-[Payment Screen Java Code](https://github.com/mbganesh/PaymentApp/blob/master/app/src/main/java/mb/ganesh/paymentapp/PaymentActivity.java)
+1. [Payment Screen XML](https://github.com/mbganesh/PaymentApp/blob/master/app/src/main/res/layout/activity_payment.xml)
+2. [Payment Screen Java Code](https://github.com/mbganesh/PaymentApp/blob/master/app/src/main/java/mb/ganesh/paymentapp/PaymentActivity.java)
 
 
 ## outout
